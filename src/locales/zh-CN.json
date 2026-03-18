@@ -1,0 +1,88 @@
+{
+  "brand": {
+    "name": "SiSquare AI",
+    "slogan": "一人成军，智胜未来"
+  },
+  "nav": {
+    "solutions": "解决方案",
+    "opcModel": "OPC 模式",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "startProject": "启动项目"
+  },
+  "hero": {
+    "title": "一人成军，智胜未来",
+    "subtitle": "SiSquare AI 代表软件开发的未来。我们是一家总部位于香港的一人公司（OPC），由先进 AI Agent 驱动。我们以创业公司的速度和零管理开销，提供企业级解决方案。",
+    "exploreModel": "探索我们的模式",
+    "viewDemo": "查看演示"
+  },
+  "features": {
+    "title": "为什么选择 AI 原生 OPC？",
+    "subtitle": "传统公司无法与我们的速度和效率竞争。",
+    "operation7x24": {
+      "title": "7x24 小时运作",
+      "description": "我们的 AI 团队永不休息。持续开发和全天候支持。"
+    },
+    "efficiency": {
+      "title": "极致效率",
+      "description": "无官僚主义，无管理开销。从愿景到代码，直接创造价值。"
+    },
+    "tech": {
+      "title": "前沿技术",
+      "description": "基于最新大语言模型和自主 Agent（OpenClaw 等）构建。"
+    }
+  },
+  "solutions": {
+    "title": "跨境软件解决方案",
+    "subtitle": "我们构建重要的产品。快速、高效、可扩展。",
+    "aiAgents": {
+      "title": "定制 AI Agent 开发",
+      "description": "自动编码、数据分析、研究自动化等。为您的业务量身定制 24/7 工作的 AI Agent。",
+      "examples": ["代码生成与审查", "市场研究自动化", "客户支持机器人"]
+    },
+    "ecommerce": {
+      "title": "跨境电商工具",
+      "description": "通过智能工具简化您的国际业务，涵盖合规、物流和运营。",
+      "examples": ["HS 编码分类", "税务计算", "库存管理"]
+    },
+    "mvp": {
+      "title": "快速 MVP 原型",
+      "description": "从想法到可用产品仅需 48 小时。非常适合验证概念和向投资者展示。",
+      "examples": ["Web 应用程序", "移动应用原型", "API 集成"]
+    }
+  },
+  "about": {
+    "title": "创始人介绍",
+    "name": "梁成",
+    "role": "SiSquare AI 创始人",
+    "bio1": "富有远见的创始人，致力于重新定义 AI 时代的组织架构。证明单个人类借助数字智能，可以超越传统公司。",
+    "bio2": "梁成拥有软件工程、管理咨询和 AI 创新的多元背景，将深厚的技术专长与战略思维相结合，为全球客户交付卓越成果。",
+    "stats": {
+      "mvpDelivery": "MVP 交付",
+      "aiOperation": "AI 运作",
+      "clientBase": "客户基础"
+    }
+  },
+  "contact": {
+    "title": "携手共创",
+    "subtitle": "准备好将您的想法变为现实？联系我们。",
+    "emailUs": "发送邮件",
+    "location": "所在地",
+    "address": "香港（L 广场）",
+    "servingGlobal": "服务全球客户"
+  },
+  "footer": {
+    "slogan": "一人成军，智胜未来",
+    "quickLinks": "快速链接",
+    "legal": "法律信息",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "copyright": "© {{year}} SiSquare Tech Limited. 保留所有权利。",
+    "tagline": "用 AI 构建，为未来设计。"
+  },
+  "lang": {
+    "en": "EN",
+    "zhCN": "简",
+    "zhHK": "繁"
+  }
+}

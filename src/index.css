@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+:root {
+  --primary: #0F172A;
+  --accent: #06B6D4;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #FAFAFA;
+  color: #1F2937;
+}
+
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
+
+/* Subtle grid pattern background */
+.bg-grid {
+  background-image: 
+    linear-gradient(rgba(6, 182, 212, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(6, 182, 212, 0.05) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}

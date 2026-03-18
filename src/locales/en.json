@@ -1,0 +1,88 @@
+{
+  "brand": {
+    "name": "SiSquare AI",
+    "slogan": "One Person, Infinite Scale."
+  },
+  "nav": {
+    "solutions": "Solutions",
+    "opcModel": "OPC Model",
+    "about": "About",
+    "contact": "Contact",
+    "startProject": "Start Project"
+  },
+  "hero": {
+    "title": "One Person, Infinite Scale.",
+    "subtitle": "SiSquare AI is the future of software development. A Hong Kong-based One Person Company (OPC) powered by advanced AI Agents. We deliver enterprise-grade solutions with startup speed and zero overhead.",
+    "exploreModel": "Explore Our Model",
+    "viewDemo": "View Demo"
+  },
+  "features": {
+    "title": "Why Choose an AI-Native OPC?",
+    "subtitle": "Traditional companies can't compete with our speed and efficiency.",
+    "operation7x24": {
+      "title": "7x24 Operation",
+      "description": "Our AI workforce never sleeps. Continuous development and support."
+    },
+    "efficiency": {
+      "title": "Extreme Efficiency",
+      "description": "No bureaucracy, no overhead. Direct value from vision to code."
+    },
+    "tech": {
+      "title": "Cutting-Edge Tech",
+      "description": "Built on the latest LLMs and Autonomous Agents (OpenClaw, etc.)."
+    }
+  },
+  "solutions": {
+    "title": "Cross-Border Software Solutions",
+    "subtitle": "We build what matters. Fast, efficient, and scalable.",
+    "aiAgents": {
+      "title": "Custom AI Agent Development",
+      "description": "Auto-Coding, Data Analysis, Research Automation, and more. Tailored AI agents that work 24/7 for your business.",
+      "examples": ["Code generation & review", "Market research automation", "Customer support bots"]
+    },
+    "ecommerce": {
+      "title": "Cross-Border E-commerce Tools",
+      "description": "Streamline your international business with smart tools for compliance, logistics, and operations.",
+      "examples": ["HS Code classification", "Tax calculation", "Inventory management"]
+    },
+    "mvp": {
+      "title": "Rapid MVP Prototyping",
+      "description": "From idea to working product in 48 hours. Perfect for validating concepts and pitching to investors.",
+      "examples": ["Web applications", "Mobile app prototypes", "API integrations"]
+    }
+  },
+  "about": {
+    "title": "About the Founder",
+    "name": "Liang Cheng",
+    "role": "Founder, SiSquare AI",
+    "bio1": "Visionary founder dedicated to redefining the organizational structure of the AI era. Proving that a single human, augmented by digital intelligence, can outperform traditional corporations.",
+    "bio2": "With a background spanning software engineering, management consulting, and AI innovation, Liang combines deep technical expertise with strategic thinking to deliver exceptional results for clients worldwide.",
+    "stats": {
+      "mvpDelivery": "MVP Delivery",
+      "aiOperation": "AI Operation",
+      "clientBase": "Client Base"
+    }
+  },
+  "contact": {
+    "title": "Let's Build Together",
+    "subtitle": "Ready to transform your ideas into reality? Let's talk.",
+    "emailUs": "Email Us",
+    "location": "Location",
+    "address": "Hong Kong (The L. Plaza)",
+    "servingGlobal": "Serving Global Clients"
+  },
+  "footer": {
+    "slogan": "One Person, Infinite Scale.",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© {{year}} SiSquare AI Limited. All Rights Reserved.",
+    "tagline": "Built with AI, designed for the future."
+  },
+  "lang": {
+    "en": "EN",
+    "zhCN": "简",
+    "zhHK": "繁"
+  }
+}
