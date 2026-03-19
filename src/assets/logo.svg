@@ -48,10 +48,10 @@
                 Si<tspan fill="#1D4ED8">Square</tspan>
             </text>
             
-            <!-- 中文名称: 赛方科技 -->
+            <!-- 中文名称: 賽方科技 -->
             <!-- X轴统一为115严格左对齐，Y轴微调至94，颜色微调加深提升质感 -->
             <text x="115" y="94" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#475569" letter-spacing="13">
-                赛方科技
+                賽方科技
             </text>
             
             <!-- AI 小角标 -->
