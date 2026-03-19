@@ -65,8 +65,6 @@ build/
 # Temporary files
 *.tmp
 *.temp
-<<<<<<< HEAD
 
 package-lock.json
-=======
->>>>>>> source/main
+

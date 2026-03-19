@@ -77,11 +77,7 @@
     "legal": "Legal",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
-<<<<<<< HEAD
-    "copyright": "© {{year}} SiSquare AI Limited. All Rights Reserved.",
-=======
     "copyright": "© {{year}} SiSquare Tech Limited. All Rights Reserved.",
->>>>>>> source/main
     "tagline": "Built with AI, designed for the future."
   },
   "lang": {
