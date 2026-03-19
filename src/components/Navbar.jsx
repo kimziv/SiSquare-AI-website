@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Menu, X, Globe } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
+import logo from '../assets/logo.svg';
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -34,13 +35,18 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <motion.div 
+          <motion.a
+            href="/"
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
-            className="text-2xl font-bold text-slate-900"
+            className="flex items-center"
           >
-            {t('brand.name')}
-          </motion.div>
+            <img 
+              src={logo} 
+              alt={t('brand.name')} 
+              className="h-15 w-auto"
+            />
+          </motion.a>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
